@@ -1,0 +1,13 @@
+---
+layout: post
+title: Test
+date: 2019-12-16 15:32:24.000000000 +09:00
+---
+
+I am writing my first markdown document, this is for testing purpose, if you see this blog, please ignore the content, I will add more real skill related blogs in the future.
+
+The content might be related two below items:
+*  Language skill
+*  Framework skill
+*  Architecture skill
+*  Cloud platform skill
